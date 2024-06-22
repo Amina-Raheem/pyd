@@ -1,0 +1,32 @@
+
+#center{
+    text-align: center;
+    line-height: 15px;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#one{
+    
+    padding-top: 230px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 100px;
+    background-image: url('webimage.png');
+
+}
+#red{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    margin-right: 900px;
+    margin-top: 30px;
+    background-color: red;
+    border-top-right-radius: 20%;
+    border-bottom-right-radius: 20%;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: block ;
+}
+
